@@ -15,7 +15,7 @@ Introduction
 - Using Loops
 - Testing Plays with Check Mode
 
-05/
+05/28
 Quiz
 2. Using Roles
 - An overview of Roles in Ansible
