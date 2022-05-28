@@ -1,7 +1,7 @@
 # Automation
 05/25/2022
 Introduction
-Building great tasks
+1. Building great tasks
 - Using host groups 
 - Using Tags
 - Running tasks against localhost 
@@ -15,3 +15,7 @@ Building great tasks
 - Using Loops
 - Testing Plays with Check Mode
 
+05/28
+2. Using Roles
+- An overview of Roles in Ansible
+- Using variables in Roles
