@@ -20,3 +20,8 @@ Quiz
 2. Using Roles
 - An overview of Roles in Ansible
 - Using variables in Roles
+
+05/29
+- Using role-based templates
+- Roles and Ansible Galaxy
+
