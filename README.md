@@ -24,4 +24,6 @@ Quiz
 05/29
 - Using role-based templates
 - Roles and Ansible Galaxy
+- Role Management
+Quiz
 
