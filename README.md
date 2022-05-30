@@ -27,3 +27,10 @@ Quiz
 - Role Management
 Quiz
 
+05/30
+3. Using Secrets
+- An overview of secrets in Ansible 
+- Using Ansible vault
+- Using secrets in plays
+Quiz
+
