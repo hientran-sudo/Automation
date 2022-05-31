@@ -34,3 +34,13 @@ Quiz
 - Using secrets in plays
 Quiz
 
+05/31
+4. Perform network management 
+- Working with IP addresses
+- Working with Network Devices
+
+5. Idempotence
+- Registering Discovered state
+- 
+
+
